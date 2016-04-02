@@ -4,7 +4,7 @@ package com.example.administrador.app3;
  * Created by Administrador on 07/01/2016.
  */
 public class Config {
-    public static final String URL_ADD = "http://www.amcomercial.com.br/webclient/addCoord.php";
+    public static final String URL_ADD = "yourUrl";
 
     //keys that will be used to send the request to php scripts
     public static final String KEY_EMP_ID = "id";
