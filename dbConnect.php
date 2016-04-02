@@ -9,8 +9,8 @@
 	*/
 	
 	define('HOST','localhost');
-	define('USER','amcom826_db');
-	define('PASS','Az3112sx');
-	define('DB','amcom826_db');
+	define('USER','username');
+	define('PASS','password');
+	define('DB','database');
 	
 	$con = mysqli_connect(HOST,USER,PASS,DB) or die('Unable to Connect');
